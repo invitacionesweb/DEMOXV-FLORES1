@@ -34,7 +34,6 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
 }
 
 
@@ -379,7 +378,6 @@ footer img {
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        background-attachment: none;
     }
     .frenteflores {
         width: 100%;
